@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ The\ Button\ object\ that\ goes\ in\ the\ world,\ and\ will\ update\ the\ HealthBar\r\n\ object\ when\ pressed\r\n\ \r\n\ @author\ Gade\ Ricard\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Button()
+comment2.params=noClick\ click\ v
+comment2.target=Button(java.awt.Color,\ java.awt.Color,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4
