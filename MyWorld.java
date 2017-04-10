@@ -3,8 +3,10 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class MyWorld here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Author: Gade Ricard
+ * Teacher: Mr. Hardman
+ * Assignment #3, HealthBar
+ * Date Last Modified: April 10th
  */
 public class MyWorld extends World
 {
@@ -23,6 +25,9 @@ public class MyWorld extends World
     /**
      * Prepare the world for the start of the program.
      * That is: create the initial objects and add them to the world.
+     * 
+     * @param There are no parameters
+     * @return Nothing is returned
      */
     private void prepare()
     {
