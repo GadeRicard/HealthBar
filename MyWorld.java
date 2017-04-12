@@ -1,12 +1,12 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
-
+import java.awt.*;
 /**
  * Write a description of class MyWorld here.
  * 
  * Author: Gade Ricard
  * Teacher: Mr. Hardman
  * Assignment #3, HealthBar
- * Date Last Modified: April 10th
+ * Date Last Modified: April 12th
  */
 public class MyWorld extends World
 {
@@ -37,5 +37,10 @@ public class MyWorld extends World
         addObject(healthbar,255,138);
         healthbar.setLocation(296,81);
         button.setLocation(136,212);
+        Button button2 = new Button(Color.GREEN, Color.PINK, -80);
+        addObject(button2,402,219);
+        button2.setLocation(415,215);
+        button2.setLocation(244,214);
+        button2.setLocation(407,212);
     }
 }
